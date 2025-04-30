@@ -198,7 +198,7 @@ html {
     }
   }
   @media screen and (max-width: 576px) {
-    margin-bottom: 340px;
+    margin-top: 40px;
   }
 }
 
