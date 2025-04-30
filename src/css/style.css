@@ -110,7 +110,6 @@ html {
   }
   @media screen and (max-width: 576px) {
     font-size: 26px;
-    margin-bottom: 500px;
   }
 }
 
@@ -200,6 +199,7 @@ html {
   }
   @media screen and (max-width: 576px) {
     margin-top: 233px;
+    margin-bottom: 10px;
   }
 }
 
